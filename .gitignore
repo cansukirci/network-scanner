@@ -1,0 +1,20 @@
+# Python geçici dosyaları
+__pycache__/
+*.pyc
+
+# SQLite veritabanı
+network.db
+
+# Oluşturulan CSV dosyaları
+devices.csv
+
+# VS Code
+.vscode/
+
+# Sanal ortam
+venv/
+.venv/
+
+# Sistem dosyaları
+.DS_Store
+Thumbs.db
